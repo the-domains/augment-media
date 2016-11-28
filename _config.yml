@@ -1,14 +1,38 @@
-layout_spectrum: 0.5348446948919445
-typography_spectrum: 0.17488832212984562
+typography_spectrum: 0.17284498006953758
 color:
-  brandStrength: 0.2512411738280207
-  lightness: 0.8325149309821427
-  saturation: 0.12114962679333985
-  rhythmicContrast: 0.37470566388219595
+  brandStrength: 0.9572696179008608
+  lightness: 0.28514605968480583
+  saturation: 0.07622335660944482
+  rhythmicContrast: 0.8746157500300888
   brandColors:
-    - '#FEFEFE'
-    - '#000000'
-    - '#AEAEAE'
-    - '#404040'
-    - '#D612D4'
-name: AUGMENT MEDIA
+    - '#FFFEFF'
+    - '#0E0405'
+    - '#FE4481'
+    - '#8B806F'
+    - '#6FBBAE'
+github: true
+layout_spectrum: 0.5394089183592155
+name: THIRD EYE RESEARCH INSTITUTE
+navigation:
+  - name: Bandcamp
+    url: 'https://enix-inri.bandcamp.com/'
+    type: external
+  - name: Soundcloud
+    url: 'https://soundcloud.com/enix-inri'
+    type: external
+  - name: Youtube
+    url: 'https://www.youtube.com/channel/UClTDLHfiEPmNns3G1BBDueQ'
+    type: external
+  - name: About
+    id: fce72724-2348-43a3-be63-e95fadc73acb
+    type: content
+title: ENIX INRI
+content: []
+description: ' gnarly nexus of visionary cultures and disruptive technologies'
+purpose:
+  - type: contact
+    url: 'tel:2675152479'
+    label: 'Call '
+  - type: contact
+    url: 'mailto:enix.inri@gmail.com'
+    label: Email
