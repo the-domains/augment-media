@@ -1,16 +1,16 @@
-layout_spectrum: 0.7590363001045172
-typography_spectrum: 0.4415662785845412
+layout_spectrum: 0.3471358930752936
+typography_spectrum: 0.6388387202715852
 color:
-  brandStrength: 0.9571565329770345
-  lightness: 0.2844268920284576
-  saturation: 0.07525899339319751
-  rhythmicContrast: 0.8742214742585057
+  brandStrength: 0.5476365650995718
+  lightness: 0.4424051542167948
+  saturation: 0.9609513872025516
+  rhythmicContrast: 0.6449955866110539
   brandColors:
-    - '#FFFEFF'
-    - '#0E0405'
-    - '#FE4481'
-    - '#8B806F'
-    - '#6FBBAE'
+    - '#4E0229'
+    - '#963B99'
+    - '#B079D9'
+    - '#FEE9FE'
+    - '#F7A9FF'
 github: true
 name: THIRD EYE RESEARCH INSTITUTE
 navigation:
