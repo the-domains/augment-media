@@ -12,7 +12,7 @@ color:
     - '#E346DB'
 github: true
 layout_spectrum: 0.5544044560780472
-name: THIRD EYE RESEARCH INSTITUTE
+name: Electronic Press Kit
 navigation:
   - name: Bandcamp
     url: 'https://enix-inri.bandcamp.com/'
@@ -25,7 +25,7 @@ navigation:
     type: external
 title: ENIX INRI
 content: []
-description: electronic press kit
+description: 'Sound Designer, Vocalist , Multi-Instrumentalist'
 purpose:
   - type: contact
     url: 'tel:2675152479'
