@@ -1,17 +1,17 @@
-typography_spectrum: 0.6388387202715852
+layout_spectrum: 0.5544044560780472
+typography_spectrum: 0.5826073560031075
 color:
-  brandStrength: 0.5476365650995718
-  lightness: 0.4424051542167948
-  saturation: 0.9609513872025516
-  rhythmicContrast: 0.6449955866110539
+  brandStrength: 0.13058319468493804
+  lightness: 0.9738324557959406
+  saturation: 0.13883250369109434
+  rhythmicContrast: 0.13867791506139063
   brandColors:
-    - '#4E0229'
-    - '#963B99'
-    - '#B079D9'
-    - '#FEE9FE'
-    - '#F7A9FF'
+    - '#07060B'
+    - '#878787'
+    - '#414141'
+    - '#A6B7F1'
+    - '#E346DB'
 github: true
-layout_spectrum: 0.3471358930752936
 name: THIRD EYE RESEARCH INSTITUTE
 navigation:
   - name: Bandcamp
