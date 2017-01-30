@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-04T01:46:26.301Z'
+datePublished: '2017-01-30T19:19:59.273Z'
 sourcePath: >-
   _posts/2016-11-28-electronic-audio-visual-artist-enix-inri-currently-resides-i.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-04T01:46:25.881Z'
+dateModified: '2017-01-30T19:19:58.764Z'
 title: Biography
 publisher: {}
 description: >-
