@@ -23,6 +23,9 @@ navigation:
   - name: Youtube
     url: 'https://www.youtube.com/channel/UClTDLHfiEPmNns3G1BBDueQ'
     type: external
+  - name: About
+    id: fce72724-2348-43a3-be63-e95fadc73acb
+    type: content
 title: ENIX INRI
 content: []
 description: ' Composer, Vocalist , Sound Designer'
