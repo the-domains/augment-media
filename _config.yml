@@ -1,16 +1,16 @@
-layout_spectrum: 0.07134395067764465
-typography_spectrum: 0.17309909194348252
+layout_spectrum: 0.13942460584251376
+typography_spectrum: 0.3276068729314363
 color:
-  brandStrength: 0.49056198151496305
-  lightness: 0.29400465167597817
-  saturation: 0.5798421193756126
-  rhythmicContrast: 0.8693296512196044
+  brandStrength: 0.16681146536953748
+  lightness: 0.921856357020575
+  saturation: 0.6066809380256414
+  rhythmicContrast: 0.3359956859031895
   brandColors:
-    - '#141414'
-    - '#BC00DA'
-    - '#7600DA'
-    - '#4A07A3'
-    - '#360C6D'
+    - '#050016'
+    - '#934195'
+    - '#FFDB87'
+    - '#98FEFD'
+    - '#16E2FE'
 github: true
 name: Electronic Press Kit
 navigation:
