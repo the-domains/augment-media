@@ -30,6 +30,9 @@ navigation:
   - name: About
     id: fce72724-2348-43a3-be63-e95fadc73acb
     type: content
+  - name: Music & Sound Contributor
+    url: 'https://cosmictriggerplay.com/the-play/crew-2017/'
+    type: external
 title: ENIX INRI
 content: []
 description: ' Composer, Vocalist , Sound Designer'
