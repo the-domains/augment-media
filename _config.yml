@@ -1,17 +1,17 @@
-typography_spectrum: 0.5180123833463629
+layout_spectrum: 0.41198160557279195
+typography_spectrum: 0.515810460366198
 color:
-  brandStrength: 0.9037474204477218
-  lightness: 0.21515445745503992
-  saturation: 0.468288121906727
-  rhythmicContrast: 0.9911168382762203
+  brandStrength: 0.09401978433537896
+  lightness: 0.03759567533813343
+  saturation: 0.7354024588731625
+  rhythmicContrast: 0.06199369186913539
   brandColors:
-    - '#FF3D5A'
-    - '#FF0000'
-    - '#FF0055'
-    - '#FF3333'
-    - '#FF2449'
+    - '#000000'
+    - '#FFD119'
+    - '#FF19FF'
+    - '#00CCFF'
+    - '#4719FF'
 github: true
-layout_spectrum: 0.9709760302145698
 name: Electronic Press Kit
 navigation:
   - name: Spotify
